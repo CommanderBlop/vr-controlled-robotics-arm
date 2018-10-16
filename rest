@@ -1,0 +1,20 @@
+(S'##BEGINNING OF PROGRAM##'
+p0
+S'Tab Number 1'
+p1
+S'Move J [*]  X) 68.813   Y) -0.024   Z) 733.608   W) -89.98   P) 1.05   R) -89.98   T) 40.0   Speed-100 Ad 15 As 10 Dd 20 Ds 5 $F'
+p2
+S'Wait Off - wait input OFF - Input-'
+p3
+S'Wait Off - wait input OFF - Input-2'
+p4
+S'Out Off - set output OFF - Output-'
+p5
+S'Out Off - set output OFF - Output-4'
+p6
+S'Move J [*]  X) 68.858   Y) 0.0   Z) 733.607   W) -90.0   P) 1.06   R) -89.96   T) 40.0   Speed-25 Ad 15 As 10 Dd 20 Ds 5 $F'
+p7
+S'Call Program - '
+p8
+tp9
+.
